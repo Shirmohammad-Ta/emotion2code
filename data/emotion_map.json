@@ -1,0 +1,22 @@
+{
+    "happy": {
+        "type": "code",
+        "template": "happy_template.py"
+    },
+    "sad": {
+        "type": "poetry",
+        "template": "sad_template.py"
+    },
+    "angry": {
+        "type": "code",
+        "template": "angry_template.py"
+    },
+    "excited": {
+        "type": "code",
+        "template": "happy_template.py"
+    },
+    "nervous": {
+        "type": "poetry",
+        "template": "poetic_template.py"
+    }
+}
