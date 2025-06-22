@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit
+gtts
+speechrecognition
+pyttsx3
+jinja2
