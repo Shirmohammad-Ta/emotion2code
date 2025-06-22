@@ -1,0 +1,11 @@
+{
+    "logs": [
+        {
+            "timestamp": "2025-06-23T22:00:00",
+            "input": "I'm feeling excited about my new project!",
+            "emotion": "excited",
+            "output_type": "code",
+            "template_used": "happy_template.py"
+        }
+    ]
+}
