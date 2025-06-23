@@ -1,18 +1,48 @@
-# Emotion2Code
+# 🎭 Emotion2Code
 
- A unique emotion-aware AI tool that generates Python code, poems, or spoken output based on how you feel.
+An emotion-aware AI tool that generates Python code, poems, or even speaks back to you – based on how you feel 💬✨
 
-## Features
-- Emotion detection using NLP
-- Code generation tailored to your mood
-- Optional poetry or motivational output
-- Voice input and text-to-speech support (coming soon)
-- Ready for mobile expansion (Flutter/React Native)
+## 🔧 Features
+- Detects emotions using NLP
+- Generates code/snippets based on emotional states
+- Can respond with poetry or calming messages
+- Text-to-speech support
+- Mobile-ready architecture
 
-## Usage
+## 🚀 Getting Started
+
+### Install requirements
+```bash
+pip install -r requirements.txt
+```
+
+### Run CLI mode
 ```bash
 python app.py
 ```
 
-## License
-MIT
+### Run Streamlit UI
+```bash
+streamlit run ui/streamlit_app.py
+```
+
+## 📁 Project Structure
+```bash
+emotion2code/
+├── app.py
+├── data/
+├── models/
+├── ui/
+├── speech/
+├── utils/
+├── user_logs/
+├── mobile/
+└── codegen/
+```
+
+## 📜 License
+MIT – Free to use, modify, and share.
+
+---
+
+Made with ❤️ by Shirmohammad
