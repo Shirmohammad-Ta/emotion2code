@@ -1,6 +1,6 @@
 #  Emotion2Code
 
-An emotion-aware AI tool that generates Python code, poems, or even speaks back to you – based on how you feel 💬✨
+An emotion-aware AI tool that generates Python code, poems, or even speaks back to you – based on how you feel 
 
 ##  Features
 - Detects emotions using NLP
