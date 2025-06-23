@@ -41,6 +41,6 @@ emotion2code/
 ```
 
 ##  License
-MIT – Free to use, modify, and share.
 
+This project is licensed under the **MIT License © 2025 Shirmohammad Tavangari**
 
